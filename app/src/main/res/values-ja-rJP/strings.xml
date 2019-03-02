@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Buoi4</string>
+    <string name="title_login">ログイン</string>
+    <string name="hint_username">ユーザー名</string>
+    <string name="hint_password">パスワード</string>
+    <string name="btn_ok">はい</string>
+    <string name="title_register">登録</string>
+    <string name="data_emply">ユーザー名またはパスワードが空です</string>
+    <string name="register_cancel">登録キャンセル</string>
+</resources>

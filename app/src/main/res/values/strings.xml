@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Buoi4</string>
+    <string name="title_login">Login</string>
+    <string name="hint_username">User Name</string>
+    <string name="hint_password">Password</string>
+    <string name="btn_ok">OK</string>
+    <string name="title_register">Register</string>
+    <string name="data_emply">Username or Password is Empty</string>
+    <string name="register_cancel">Register cancel</string>
+</resources>
